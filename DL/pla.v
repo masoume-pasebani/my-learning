@@ -1,3 +1,5 @@
+//problem 2 in set7
+
 module pla(A,B,C,D,x,y,z);
 output A,B,C,D;
 input x,y,z;
