@@ -1,3 +1,6 @@
+//testbench for problem 2 in set7
+
+
 `include "pla.v"
 
 module pla_tb();
