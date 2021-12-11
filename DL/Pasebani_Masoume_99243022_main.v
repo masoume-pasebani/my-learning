@@ -1,4 +1,4 @@
-
+  //problem 2 in set5
   module main(p0,p1,p2,p3,p4,p5,a0,a1,a2,b0,b1,b2); 
 
   output p0,p1,p2,p3,p4,p5;
