@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class q5 {
+public class HW6_q5_2 {
 
     static int post_index;
 
