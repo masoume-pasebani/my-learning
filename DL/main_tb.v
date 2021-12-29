@@ -1,5 +1,5 @@
 //testbench of problem 2 in set5
-`include "Pasebani_Masoume_99243022_main.v"
+`include "main.v"
 
 module main_tb(); 
 
