@@ -55,7 +55,7 @@ public class HW6_q5_2 {
         }
 
 
-        q5 tree = new q5();
+        HW6_q5_2 tree = new HW6_q5_2();
         tree.find_preorder(inorder, postorder);
     }
 }
