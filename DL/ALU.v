@@ -1,7 +1,7 @@
 
 module ALU( out_put , A , B ,sel);
   output out_put;
-  input A;
-  input B;
-  input sel;
+  input [7:0] A;
+  input [7:0] B;
+  input [1:0] sel;
 endmodule
