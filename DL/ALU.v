@@ -1,5 +1,5 @@
 
-module ALU( out_put , A , B ,sel);
+module ALU( out_put , A , B ,sel,co);
   output out_put;
   input [7:0] A;
   input [7:0] B;
